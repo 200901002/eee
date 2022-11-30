@@ -10,13 +10,18 @@ html{
 }
 
 .btn{
-  margin: 7px;
-  padding-left: 30px;
-  padding-right: 30px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 h1{
-  margin: 70px;
+   margin: 20px; 
 }
 
 .nav-link{
